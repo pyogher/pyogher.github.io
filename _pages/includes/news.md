@@ -1,0 +1,14 @@
+# 🔥 News
+- *2026.03*: 🎉 **Four papers accepted by ICLR 2026!**
+- *2026.03*: 🎉 **One paper accepted by CVPR 2026.**
+- *2026.03*: 🎉 Released [Step-3-VL-10B Technical Report](https://arxiv.org/abs/2601.09668) as core contributor.
+- *2026.02*: 🚀 [Step-3.5 Flash](https://arxiv.org/abs/2602.10604) — open frontier-level intelligence with 11B active parameters!
+- *2026.02*: 📝 Three preprints released: [WebVR](https://arxiv.org/abs/2603.13391) (visual rubrics for webpage recreation), [PRIME](https://arxiv.org/abs/2602.11570) (process-outcome alignment benchmark), [R-Align](https://arxiv.org/abs/2602.06763) (rationale-centric meta-judging for GenRM).
+- *2026.01*: 🎉 **One paper accepted by ICML 2026.**
+- *2025.09*: 🎉 **One paper accepted by NeurIPS 2025.**
+- *2025.07*: 🎉 [Step-3 is Large yet Affordable](https://arxiv.org/abs/2507.19427) released as core contributor.
+- *2025.02*: 🎉 Three papers accepted by **NAACL 2025** on multimodal safety alignment and fine-grained multi-object alignment.
+- *2024.07*: 🎉 One paper accepted by **ECCV 2024 (Oral)** — *Images are Achilles' Heel of Alignment*.
+- *2024.07*: 🎉 One paper accepted by **ECCV 2024** — *What Makes for Good Visual Instructions*.
+- *2024.06*: 🎉 Two papers accepted by **EMNLP 2024** (incl. Findings) — *GeoGPT4V* and *GraphReader*.
+- *2023.05*: 🎉 One paper accepted by **ACL 2023 (Oral)** — *Visually-augmented PLMs for NLP Tasks without Images*.
