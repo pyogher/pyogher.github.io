@@ -2,7 +2,7 @@
 - *2026.03*: 🎉 **Four papers accepted by ICLR 2026!**
 - *2026.03*: 🎉 **One paper accepted by CVPR 2026.**
 - *2026.03*: 🎉 Released [Step-3-VL-10B Technical Report](https://arxiv.org/abs/2601.09668) as core contributor.
-- *2026.02*: 🚀 [Step-3.5 Flash](https://arxiv.org/abs/2602.10604) — open frontier-level intelligence with 11B active parameters!
+- *2026.02*: 🚀 [Step-3.5 Flash](https://arxiv.org/abs/2602.10604) — open frontier-level intelligence with 11B active parameters! I core-contributed to the **Hybrid Reward System** and the end-to-end **RLHF / RLVR** post-training pipeline.
 - *2026.02*: 📝 Three preprints released: [WebVR](https://arxiv.org/abs/2603.13391) (visual rubrics for webpage recreation), [PRIME](https://arxiv.org/abs/2602.11570) (process-outcome alignment benchmark), [R-Align](https://arxiv.org/abs/2602.06763) (rationale-centric meta-judging for GenRM).
 - *2026.01*: 🎉 **One paper accepted by ICML 2026.**
 - *2025.09*: 🎉 **One paper accepted by NeurIPS 2025.**
