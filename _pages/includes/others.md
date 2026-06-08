@@ -7,4 +7,4 @@
 - *2016.08 - 2020.06*, **B.S.**, Xidian University.
 
 # ♥️ Academic Service
-- **Reviewer / Program Committee Member**: ACL Rolling Review (2022–), ACL (2021–2023), EMNLP (2021–2023), NAACL (2021–2023), NeurIPS (2021–), AAAI, WSDM.
+- **Reviewer / Program Committee Member**: ACL Rolling Review (2022–), NeurIPS (2025–), ICML (2025–), ICLR (2025–).

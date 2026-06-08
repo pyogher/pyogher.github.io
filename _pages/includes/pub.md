@@ -6,7 +6,6 @@
 - <span class="report-tag">Technical Report</span> [Step-3-VL-10B Technical Report](https://arxiv.org/abs/2601.09668), Stepfun Team. ***Core Contributor.***
 - <span class="report-tag">Technical Report</span> [Step-3.5 Flash: Open Frontier-Level Intelligence with 11B Active Parameters](https://arxiv.org/abs/2602.10604), Stepfun Team. ***Core Contributor.***
 - <span class="report-tag">Technical Report</span> [Step-3 is Large yet Affordable: Model-system Co-design for Cost-effective Decoding](https://arxiv.org/abs/2507.19427), Stepfun Team. ***Core Contributor.***
-- <span class="report-tag">Technical Report</span> [UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2509.02544), ByteDance Seed Team.
 
 ## Reward Modeling & Verifier
 - <span class="preprint-tag">Arxiv</span> [PRIME: A Process-Outcome Alignment Benchmark for Verifiable Reasoning in Mathematics and Engineering](https://arxiv.org/abs/2602.11570), Xiangfeng Wang\*, **Hangyu Guo**\*, Yanlin Lai\*, Mitt Huang\*, Liang Zhao, et al.
@@ -16,7 +15,7 @@
 - <span class="preprint-tag">Arxiv</span> [Towards On-Policy Data Evolution for Visual-Native Multimodal Deep Search Agents](https://arxiv.org/abs/2605.10832), Shijue Huang, **Hangyu Guo**, Chenxin Li, Junting Lu, Xinyu Geng, et al.
 - <span class="preprint-tag">Arxiv</span> [AgentVista: Evaluating Multimodal Agents in Ultra-Challenging Realistic Visual Scenarios](https://arxiv.org/abs/2602.23166), Zhaochen Su, Jincheng Gao, **Hangyu Guo**, Zhenhua Liu, Lueyang Zhang, et al.
 - <span class="preprint-tag">Arxiv</span> [WiS Platform: Enhancing Evaluation of LLM-Based Multi-Agent Systems Through Game-Based Analysis](https://arxiv.org/abs/2412.03359), Chengwei Hu\*, Jianhui Zheng\*, Yancheng He\*, **Hangyu Guo**\*, Junguang Jiang\*, et al.
-- <span class="conference-tag">ICLR 2025</span> [MTU-Bench: A Multi-granularity Tool-Use Benchmark for Large Language Models](https://arxiv.org/abs/2410.11710), Pei Wang, Yanan Wu, Zekun Wang, Jiaheng Liu, Xiaoshuai Song, et al.
+- <span class="conference-tag">ICLR 2025</span> [MTU-Bench: A Multi-granularity Tool-Use Benchmark for Large Language Models](https://arxiv.org/abs/2410.11710), Pei Wang, Yanan Wu, Zekun Wang, Jiaheng Liu, Xiaoshuai Song, **Hangyu Guo**, et al.
 
 ## Multimodal LLMs — Alignment, Reasoning, Evaluation
 - <span class="preprint-tag">Arxiv</span> [WebVR: Benchmarking Multimodal LLMs for WebPage Recreation from Videos via Human-Aligned Visual Rubrics](https://arxiv.org/abs/2603.13391), Yuhong Dai\*, Yanlin Lai\*, Mitt Huang\*, **Hangyu Guo**\*, Dingming Li, et al.
