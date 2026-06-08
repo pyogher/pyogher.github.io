@@ -1,5 +1,5 @@
 # 💼 Experience
-- *2024.01 - Now*, **Research Scientist**, Stepfun, Beijing.
+- *2025.01 - Now*, **Research Scientist**, Stepfun, Beijing.
 - *2023.06 - 2024.12*, **Research Scientist**, Alibaba — Alibaba Mom / Future Life Lab, Beijing.
 
 # 📖 Education
