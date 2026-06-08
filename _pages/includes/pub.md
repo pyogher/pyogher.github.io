@@ -13,16 +13,14 @@
 
 ## Multimodal LLMs — Alignment, Reasoning, Evaluation
 - <span class="preprint-tag">Arxiv</span> [WebVR: Benchmarking Multimodal LLMs for WebPage Recreation from Videos via Human-Aligned Visual Rubrics](https://arxiv.org/abs/2603.13391), Yuhong Dai\*, Yanlin Lai\*, Mitt Huang\*, **Hangyu Guo**\*, Dingming Li, et al.
-- <span class="preprint-tag">Arxiv</span> Aligning Multimodal Large Language Models With Only Text, **Hangyu Guo**\*, Yiyuan Zhang\*, Ge Zhang, Xiaojie Jin, Wenhao Huang, et al.
-- <span class="conference-tag">NAACL 2025</span> Towards Multimodal Risk Disentanglement for the Safe Alignment of Multimodal Large Language Models, Jianyu Liu\*, **Hangyu Guo**\*, Ranjie Duan, Xingyuan Bu.
-- <span class="conference-tag">NAACL 2025</span> Towards Human-customized Fine-grained Information of Efficient Multi-object Alignment, Shilong Li\*, **Hangyu Guo**\*, Yancheng He\*, et al.
+- <span class="conference-tag">NAACL 2025</span> [DREAM: Disentangling Risks to Enhance Safety Alignment in Multimodal Large Language Models](https://arxiv.org/abs/2504.18053), Jianyu Liu\*, **Hangyu Guo**\*, Ranjie Duan, Xingyuan Bu, et al.
 - <span class="conference-tag">ECCV 2024 Oral</span> [Images are Achilles' Heel of Alignment: Exploiting Visual Vulnerabilities for Jailbreaking Multimodal Large Language Models](https://arxiv.org/abs/2403.09792), Yifan Li\*, **Hangyu Guo**\*, Kun Zhou, Wayne Xin Zhao, Ji-Rong Wen.
 - <span class="conference-tag">ECCV 2024</span> [What Makes for Good Visual Instructions? Synthesizing Complex Visual Reasoning Instructions for Visual Instruction Tuning](https://arxiv.org/abs/2311.01487), Yifan Du\*, **Hangyu Guo**\*, Kun Zhou, Wayne Xin Zhao, Jinpeng Wang, et al.
 - <span class="conference-tag">EMNLP 2024</span> [GeoGPT4V: Towards Geometric Multi-modal Large Language Models with Geometric Image Generation](https://arxiv.org/abs/2406.11503), Shihao Cai\*, Keqing Bao\*, **Hangyu Guo**\*, et al.
-- <span class="preprint-tag">Arxiv</span> ING-VP: MLLMs Cannot Play Easy Vision-based Games Yet, Haoran Zhang\*, **Hangyu Guo**\*, Shuyue Guo, Meng Cao, Wenhao Huang, et al.
+- <span class="preprint-tag">Arxiv</span> [ING-VP: MLLMs Cannot Play Easy Vision-based Games Yet](https://arxiv.org/abs/2410.06555), Haoran Zhang\*, **Hangyu Guo**\*, Shuyue Guo, Meng Cao, Wenhao Huang, et al.
 
 ## Long-Context, Tool Use & Foundation Models
 - <span class="conference-tag">EMNLP 2024 (Findings)</span> [GraphReader: Towards Real-world Long Context Reading Capability of Large Language Models](https://arxiv.org/abs/2406.14550), Shilong Li\*, Yancheng He\*, **Hangyu Guo**\*, Xingyuan Bu\*, et al.
 - <span class="conference-tag">ACL 2023 Oral</span> [Visually-augmented Pretrained Language Models for NLP Tasks without Images](https://aclanthology.org/2023.acl-long.833/), **Hangyu Guo**\*, Kun Zhou\*, Wayne Xin Zhao, Qinyu Zhang, Ji-Rong Wen.
-- <span class="preprint-tag">Arxiv</span> OmniBench: Towards The Future of Universal Omni-Language Models, Yizhi Li\*, Ge Zhang\*, Yinghao Ma, Ruibin Yuan, **Hangyu Guo**, et al.
-- <span class="preprint-tag">Arxiv</span> [A Comprehensive Survey on Long Context Language Modeling](https://github.com/LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling), LCLM-Horizon Team.
+- <span class="preprint-tag">Arxiv</span> [OmniBench: Towards The Future of Universal Omni-Language Models](https://arxiv.org/abs/2409.15272), Yizhi Li\*, Ge Zhang\*, Yinghao Ma, Ruibin Yuan, **Hangyu Guo**, et al.
+- <span class="preprint-tag">Arxiv</span> [A Comprehensive Survey on Long Context Language Modeling](https://arxiv.org/abs/2503.17407), LCLM-Horizon Team.
