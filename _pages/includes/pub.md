@@ -29,7 +29,7 @@
 - <span class="preprint-tag">Arxiv</span> [ING-VP: MLLMs Cannot Play Easy Vision-based Games Yet](https://arxiv.org/abs/2410.06555), Haoran Zhang\*, **Hangyu Guo**\*, Shuyue Guo, Meng Cao, Wenhao Huang, et al.
 - <span class="preprint-tag">Arxiv</span> [PhysGame: Uncovering Physical Commonsense Violations in Gameplay Videos](https://arxiv.org/abs/2412.01800), Meng Cao, Haoran Tang, Haoze Zhao, **Hangyu Guo**, Jiaheng Liu, et al.
 - <span class="conference-tag">ICLR 2026</span> Interleaving Reasoning for Better Text-to-Image Generation, Wenxuan Huang, Shuang Chen, Zheyong Xie, Shaosheng Cao, Shixiang Tang, Yufan Shen, Qingyun Yin, Wenbo Hu, Xiaoyuan Wang, et al.
-- <span class="preprint-tag">Arxiv</span> [MathReal: We Keep It Real! A Real Scene Benchmark for Evaluating Math Reasoning in Multimodal Large Language Models](https://arxiv.org/abs/2508.06009), Junfeng Feng, Zekun Wang, Zheng Zhang, et al.
+- <span class="preprint-tag">Arxiv</span> [MathReal: We Keep It Real! A Real Scene Benchmark for Evaluating Math Reasoning in Multimodal Large Language Models](https://arxiv.org/abs/2508.06009), Junfeng Feng, Zekun Wang, Zheng Zhang, **Hangyu Guo**, Zhihao Zhou, Xiao Chen, Zheng Li, Dawei Yin.
 
 ## Long-Context, Tool Use & Foundation Models
 - <span class="conference-tag">EMNLP 2024 (Findings)</span> [GraphReader: Building Graph-based Agent to Enhance Long-Context Abilities of Large Language Models](https://arxiv.org/abs/2406.14550), Shilong Li\*, Yancheng He\*, **Hangyu Guo**\*, Xingyuan Bu\*, et al.
