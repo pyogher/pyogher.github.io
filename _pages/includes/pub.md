@@ -15,7 +15,7 @@
 - <span class="preprint-tag">Arxiv</span> [Towards On-Policy Data Evolution for Visual-Native Multimodal Deep Search Agents](https://arxiv.org/abs/2605.10832), Shijue Huang, **Hangyu Guo**, Chenxin Li, Junting Lu, Xinyu Geng, et al.
 - <span class="preprint-tag">Arxiv</span> [AgentVista: Evaluating Multimodal Agents in Ultra-Challenging Realistic Visual Scenarios](https://arxiv.org/abs/2602.23166), Zhaochen Su, Jincheng Gao, **Hangyu Guo**, Zhenhua Liu, Lueyang Zhang, et al.
 - <span class="preprint-tag">Arxiv</span> [WiS Platform: Enhancing Evaluation of LLM-Based Multi-Agent Systems Through Game-Based Analysis](https://arxiv.org/abs/2412.03359), Chengwei Hu\*, Jianhui Zheng\*, Yancheng He\*, **Hangyu Guo**\*, Junguang Jiang\*, et al.
-- <span class="conference-tag">ICLR 2025</span> [MTU-Bench: A Multi-granularity Tool-Use Benchmark for Large Language Models](https://arxiv.org/abs/2410.11710), Pei Wang, Yanan Wu, Zekun Wang, Jiaheng Liu, Xiaoshuai Song, **Hangyu Guo**, et al.
+- <span class="conference-tag">ICLR 2025</span> [MTU-Bench: A Multi-granularity Tool-Use Benchmark for Large Language Models](https://arxiv.org/abs/2410.11710), Pei Wang, Yanan Wu, Zekun Wang, Jiaheng Liu, Xiaoshuai Song, Zhe Peng, Kang Deng, Chenchen Zhang, Jiaheng Wang, ..., **Hangyu Guo**, et al.
 
 ## Multimodal LLMs — Alignment, Reasoning, Evaluation
 - <span class="preprint-tag">Arxiv</span> [WebVR: Benchmarking Multimodal LLMs for WebPage Recreation from Videos via Human-Aligned Visual Rubrics](https://arxiv.org/abs/2603.13391), Yuhong Dai\*, Yanlin Lai\*, Mitt Huang\*, **Hangyu Guo**\*, Dingming Li, et al.
@@ -27,7 +27,7 @@
 - <span class="conference-tag">EMNLP 2024</span> [GeoGPT4V: Towards Geometric Multi-modal Large Language Models with Geometric Image Generation](https://arxiv.org/abs/2406.11503), Shihao Cai\*, Keqing Bao\*, **Hangyu Guo**\*, et al.
 - <span class="preprint-tag">Arxiv</span> [ING-VP: MLLMs Cannot Play Easy Vision-based Games Yet](https://arxiv.org/abs/2410.06555), Haoran Zhang\*, **Hangyu Guo**\*, Shuyue Guo, Meng Cao, Wenhao Huang, et al.
 - <span class="preprint-tag">Arxiv</span> [PhysGame: Uncovering Physical Commonsense Violations in Gameplay Videos](https://arxiv.org/abs/2412.01800), Meng Cao, Haoran Tang, Haoze Zhao, **Hangyu Guo**, Jiaheng Liu, et al.
-- <span class="conference-tag">ICLR 2026</span> Interleaving Reasoning for Better Text-to-Image Generation, Wenxuan Huang, Shuang Chen, Zheyong Xie, Shaosheng Cao, Shixiang Tang, Yufan Shen, Qingyun Yin, Wenbo Hu, Xiaoyuan Wang, et al.
+- <span class="conference-tag">ICLR 2026</span> Interleaving Reasoning for Better Text-to-Image Generation, Wenxuan Huang, Shuang Chen, Zheyong Xie, Shaosheng Cao, Shixiang Tang, Yufan Shen, Qingyun Yin, Wenbo Hu, Xiaoyuan Wang, ..., **Hangyu Guo**, et al.
 - <span class="preprint-tag">Arxiv</span> [MathReal: We Keep It Real! A Real Scene Benchmark for Evaluating Math Reasoning in Multimodal Large Language Models](https://arxiv.org/abs/2508.06009), Junfeng Feng, Zekun Wang, Zheng Zhang, **Hangyu Guo**, Zhihao Zhou, Xiao Chen, Zheng Li, Dawei Yin.
 
 ## Long-Context, Tool Use & Foundation Models
