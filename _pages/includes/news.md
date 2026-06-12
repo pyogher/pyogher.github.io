@@ -8,7 +8,6 @@
 - *2026.01*: 🎉 **Four papers accepted by ICLR 2026.**
 - *2025.09*: 🎉 **One paper accepted by NeurIPS 2025.**
 - *2025.07*: 🎉 [Step-3 is Large yet Affordable](https://arxiv.org/abs/2507.19427) released as core contributor.
-- *2025.06*: 🚀 Participated in delivering **Step1ot** and an **internal 7B experimental multimodal model** (PE encoder + Qwen3 joint training) through the full **MidTrain + SFT + Coldstart** pipeline; led the **RL infrastructure** workstream, supporting long-sequence (64k) post-training and unified thinking / non-thinking chat-template.
 - *2025.01*: 🎉 **Two papers accepted by NAACL 2025 (incl. Findings).**
 - *2024.10*: 🎉 **Two papers accepted by EMNLP 2024 (incl. Findings).**
 - *2024.07*: 🎉 **One paper accepted by ECCV 2024 (Oral).**
