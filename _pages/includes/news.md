@@ -1,13 +1,8 @@
 # 🔥 News
 - *2026.05*: 🎉 **One paper accepted by ICML 2026.**
-- *2026.03*: 🎉 Released [Step-3-VL-10B Technical Report](https://arxiv.org/abs/2601.09668) as core contributor.
-- *2026.03*: 📝 Released [WebVR](https://arxiv.org/abs/2603.13391) — visual rubrics for webpage recreation from videos.
 - *2026.02*: 🎉 **One paper accepted by CVPR 2026.**
-- *2026.02*: 🚀 [Step-3.5 Flash](https://arxiv.org/abs/2602.10604) — open frontier-level intelligence with 11B active parameters! I core-contributed to the **Hybrid Reward System** and the end-to-end **RLHF / RLVR** post-training pipeline.
-- *2026.02*: 📝 Two preprints released: [PRIME](https://arxiv.org/abs/2602.11570) (process-outcome alignment benchmark) and [R-Align](https://arxiv.org/abs/2602.06763) (rationale-centric meta-judging for GenRM).
 - *2026.01*: 🎉 **Four papers accepted by ICLR 2026.**
 - *2025.09*: 🎉 **One paper accepted by NeurIPS 2025.**
-- *2025.07*: 🎉 [Step-3 is Large yet Affordable](https://arxiv.org/abs/2507.19427) released as core contributor.
 - *2025.01*: 🎉 **Two papers accepted by NAACL 2025 (incl. Findings).**
 - *2024.10*: 🎉 **Two papers accepted by EMNLP 2024 (incl. Findings).**
 - *2024.07*: 🎉 **One paper accepted by ECCV 2024 (Oral).**
