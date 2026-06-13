@@ -1,5 +1,6 @@
 # 💼 Experience
 - *2025.01 - Now*, **Research Scientist**, Stepfun, Beijing.
+- *2023.06 - 2024.12*, **Research Scientist**, Alibaba Future Life Lab, Beijing.
 
 # 📖 Education
 - *2020.08 - 2023.06*, **M.S.**, Harbin Institute of Technology (Shenzhen), School of Information Engineering.
